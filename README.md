@@ -55,9 +55,5 @@ DSA-Patterns/
 
 I am continuously solving problems and improving my understanding of DSA patterns.
 
-## 🤝 Connect With Me
-
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
 
 ⭐ If you find this repository helpful, feel free to star it!
